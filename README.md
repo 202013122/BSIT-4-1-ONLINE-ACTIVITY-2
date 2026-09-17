@@ -1,4 +1,4 @@
-NLINE ACTIVITY #2
+ACTIVITY #2
 Personalized Linux, and Git Cheat Sheet
 
 Using any available resources (official Git documentation, online tutorials, or the built-in git --help command), research the following topics and create a personalized 1-page (A4) cheat sheet:
